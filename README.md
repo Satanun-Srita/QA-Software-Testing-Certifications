@@ -9,20 +9,20 @@ Featured here is my collection of professional certifications and course complet
 
 * **Testing web applications with Robot Framework and Selenium** - FutureSkill | 2026
   
-  <img src="assets/Robot-Framework-Certificate.jpg" width="700" alt="Robot Framework Certificate">
+  <img src="images/Robot-Framework-Certificate.jpg" width="700" alt="Robot Framework Certificate">
 
 * **Automate API testing with Postman and Newman** - FutureSkill | 2026
   
-  <img src="assets/Automate-API-with-Postman-Certificate.jpg" width="700" alt="Automate API with Postman Certificate">
+  <img src="images/Automate-API-with-Postman-Certificate.jpg" width="700" alt="Automate API with Postman Certificate">
 
 * **Workshop API and Functional Manual Test** - FutureSkill | 2025
   
-  <img src="assets/Workshop-API-Functional-Certificate.jpg" width="700" alt="Workshop API Functional Certificate">
+  <img src="images/Workshop-API-Functional-Certificate.jpg" width="700" alt="Workshop API Functional Certificate">
 
 ### 📝 Manual Testing
 
 * **Fundamental Knowledge for QA and Testers** - FutureSkill | 2025
   
-  <img src="assets/Fundamental-Knowledge-for-QA-Certificate.jpg" width="700" alt="Fundamental Knowledge for QA Certificate">
+  <img src="images/Fundamental-Knowledge-for-QA-Certificate.jpg" width="700" alt="Fundamental Knowledge for QA Certificate">
 
 ---
